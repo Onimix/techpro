@@ -6,3 +6,12 @@ birthday4.png
 birthday7.png
 birthday5.png
 birthday6.jpg
+bd1.jpg
+bd2.jpg
+bd3.jpg
+bd4.jpg
+bd5.jpg
+bd6.jpg
+bd7.jpg
+bd8.jpg
+bd9.jpg
