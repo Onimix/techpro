@@ -1,1 +1,8 @@
 vic.png
+birthday1.png
+birthday2.png
+birthday3.png
+birthday4.png
+birthday5.png
+birthday6.png
+birthday7.png
